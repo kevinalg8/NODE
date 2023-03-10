@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarroyave27/Repaso.git"
+    "url": "git+https://github.com/kevinalg8/NODE.git"
   },
   "author": "deSara",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sarroyave27/Repaso/issues"
+    "url": "https://github.com/kevinalg8/NODE/issues"
   },
-  "homepage": "https://github.com/sarroyave27/Repaso#readme",
+  "homepage": "https://github.com/kevinalg8/NODE#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
