@@ -4,5 +4,5 @@ const app = express();
 
 app.listen('3000', ()=>{
     //console.log("hola mundo");
-    message("Hola mundo", "danger")
+    message("Hola mundo", "success")
 });
